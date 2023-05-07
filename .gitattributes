@@ -1,2 +1,2 @@
-scanner_line_endings/fixture_crlf eol=crlf
-scanner_line_endings/fixture_lf eol=lf
+scanner_line_endings/fixture_crlf text eol=crlf
+scanner_line_endings/fixture_lf text eol=lf
